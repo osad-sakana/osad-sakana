@@ -1,16 +1,13 @@
-### Hi there 👋
+# 小佐田雄宇 / Yu Osada / osad-sakana
 
-<!--
-**osad-sakana/osad-sakana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+  img{
+    display: block;
+    margin: 1rem 0;
+    max-height: 20rem;
+    width: auto;
+  }
+</style>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="rokumura7's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=osad-sakana&count_private=true&show_icons=true&theme=tokyonight">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osad-sakana&theme=tokyonight">
