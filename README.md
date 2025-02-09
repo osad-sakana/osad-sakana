@@ -1,24 +1,5 @@
 # 小佐田雄宇 / Osada Yu / osad-sakana
 
-![概要](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osad-sakana&theme=dracula)
-
-<div style="display: flex;">
-
-![リポジトリの言語](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osad-sakana&theme=dracula)
-
-![コミットの言語](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osad-sakana&theme=dracula)
-
-</div>
-<div style="display: flex;">
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osad-sakana&theme=dracula)
-
-![コミット数](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osad-sakana&theme=dracula&utcOffset=8)
-
-</div>
-
-## Self Introduction / 自己紹介
-
 Hello, I'm **Osada Yu (小佐田雄宇)**. I primarily focus on **Web Development**, using technologies such as **PHP (Laravel)** and **Python (Django, FastAPI)** to build efficient and practical web applications. In addition, I am active as a **composer**, developing applications that assist with music production and streamline work processes. I also work as a programming instructor for youth, dedicating myself to nurturing the next generation of tech talent. Recently, I have been actively exploring cutting-edge technologies such as generative AI.
 
 こんにちは、私は**Web開発**を中心に活動しているエンジニアです。主に**PHP (Laravel)** や **Python (Django, FastAPI)** を用いて、効率的で実用的なWebアプリケーションの開発に取り組んでいます。さらに、**作曲家**としても活動しており、音楽制作を補助するアプリケーションの開発や業務効率化アプリに強い興味を持っています。また、青少年向けのプログラミング講師として、次世代の技術者育成にも努めています。最近は、生成AIなどの最新技術も積極的に活用しています。
@@ -62,3 +43,11 @@ GitHubを活用して、Web開発と音楽制作支援の両面から新しい�
 ### Podcast 活字中毒者計画
 
 <a href="https://katsujikyo.net/"><img src="./images/katsuji_logo.png" alt="活字中毒者計画"></a>
+
+---
+
+![概要](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osad-sakana&theme=dracula)
+
+![リポジトリの言語](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osad-sakana&theme=dracula)![コミットの言語](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osad-sakana&theme=dracula)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osad-sakana&theme=dracula)![コミット数](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osad-sakana&theme=dracula&utcOffset=8)
