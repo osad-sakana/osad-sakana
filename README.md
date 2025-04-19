@@ -15,7 +15,7 @@ Hello, I'm **Osada Yu (小佐田雄宇)**. I primarily focus on **Web Developmen
 
 ### Tools / ツール
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)![Cursor](https://img.shields.io/badge/Cursor-121212?logo=cursor&logoColor=white)
 
 ---
 
