@@ -1,8 +1,12 @@
 # 小佐田雄宇 / Osada Yu / osad-sakana
 
-Hello, I'm **Osada Yu (小佐田雄宇)**. I primarily focus on **Web Development**, using technologies such as **PHP (Laravel)** and **Python (Django, FastAPI)** to build efficient and practical web applications. In addition, I am active as a **composer**, developing applications that assist with music production and streamline work processes. I also work as a programming instructor for youth, dedicating myself to nurturing the next generation of tech talent. Recently, I have been actively exploring cutting-edge technologies such as generative AI.
+> "こどもたちに「エラーはこわくないよ」と伝えるお仕事してます。" — Teaching kids that "errors aren't scary" — one bug at a time
 
-こんにちは、私は**Web開発**を中心に活動しているエンジニアです。主に**PHP (Laravel)** や **Python (Django, FastAPI)** を用いて、効率的で実用的なWebアプリケーションの開発に取り組んでいます。さらに、**作曲家**としても活動しており、音楽制作を補助するアプリケーションの開発や業務効率化アプリに強い興味を持っています。また、青少年向けのプログラミング講師として、次世代の技術者育成にも努めています。最近は、生成AIなどの最新技術も積極的に活用しています。
+📍 **Location**: Tokyo, Japan
+
+Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and educator based in Tokyo. I specialize in **Web Development** using **PHP (Laravel)** and **Python (Django, FastAPI)** to create practical solutions spanning from AI-powered productivity tools to educational applications. As a **composer** and **programming instructor**, I bridge the gap between technology and creativity, developing tools that enhance both music production workflows and programming education for youth.
+
+こんにちは、東京を拠点とする**Web開発**エンジニア・プログラミング講師の**小佐田雄宇**です。**PHP (Laravel)** や **Python (Django, FastAPI)** を用いて、AIを活用した生産性向上ツールから教育アプリケーションまで、実用的なソリューションを開発しています。**作曲家**・**プログラミング講師**として、テクノロジーと創造性を融合し、音楽制作ワークフローと青少年向けプログラミング教育の両方を支援するツールを開発しています。
 
 ![概要](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osad-sakana&theme=dracula)
 
@@ -12,8 +16,16 @@ Hello, I'm **Osada Yu (小佐田雄宇)**. I primarily focus on **Web Developmen
 
 ### Programming Languages & Frameworks / プログラミング言語 & フレームワーク
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+#### Primary Stack / メインスタック
+
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) **Web Applications & APIs**
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) **AI Integration & Backend Services**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) **Frontend & Desktop Apps**
+
+**Exploring** / **学習・実験中**
+
+- ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) **System Tools & Performance**
+- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) **Microservices & CLI Tools**
 
 ![リポジトリの言語](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osad-sakana&theme=dracula)![コミットの言語](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osad-sakana&theme=dracula)
 
@@ -23,12 +35,31 @@ Hello, I'm **Osada Yu (小佐田雄宇)**. I primarily focus on **Web Developmen
 
 ---
 
+## Featured Projects / 主要プロジェクト
+
+### 🤖 AI & Productivity Tools
+
+- **[face_classifier](https://github.com/osad-sakana/face_classifier)** - Intelligent photo sorting system using face recognition *(Python)*
+- **[sshportal](https://github.com/osad-sakana/sshportal)** - SSH connection management tool for macOS *(Rust)*
+
+### 🎵 Music & Creative Tools
+
+- **[podcast-recorder](https://github.com/osad-sakana/podcast-recorder)** - Professional podcast voice recorder with full-screen highlight features
+- Music production assistance applications (private repositories)
+
+### 🎮 Educational & Game Development
+
+- **[kurari_platformer](https://github.com/osad-sakana/kurari_platformer)** - Educational platformer game co-developed with students *(Python)*
+- **[inventory_practice](https://github.com/osad-sakana/inventory_practice)** - Interactive keyboard inventory switching trainer *(TypeScript)*
+
+---
+
 ## Interests & Fields of Activity / 興味・活動分野
 
-- Development of productivity and automation apps / 業務効率化アプリの開発
-- Development of applications that assist in music production / 音楽制作を補助するアプリケーションの開発
-- Teaching programming to youth / 青少年向けのプログラミング講師としての活動
-- Development of new products utilizing generative AI / 生成AIを活用した新しいプロダクトの開発
+- **AI-Powered Productivity Solutions** / **AI活用による生産性向上ソリューション**
+- **Music Production Technology** / **音楽制作技術**
+- **Youth Programming Education** / **青少年プログラミング教育**
+- **Cross-Platform Development Tools** / **クロスプラットフォーム開発ツール**
 
 ## Future Goals / 今後の目標
 
@@ -40,6 +71,10 @@ GitHubを活用して、Web開発と音楽制作支援の両面から新しい�
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/osad_sakana)
 
-### Podcast 活字中毒者計画
+---
 
-<a href="https://katsujikyo.net/"><img src="./images/katsuji_logo.png" alt="活字中毒者計画"></a>
+### 🎙️ Podcast: 活字中毒者計画
+
+<a href="https://katsujikyo.net/">
+<img src="./images/katsuji_logo.png" alt="活字中毒者計画" width="200"/>
+</a>
