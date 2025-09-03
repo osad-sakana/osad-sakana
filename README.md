@@ -1,8 +1,18 @@
 # 小佐田雄宇 / Osada Yu / osad-sakana
 
-> "こどもたちに「エラーはこわくないよ」と伝えるお仕事してます。" — Teaching kids that "errors aren't scary" — one bug at a time
-
-📍 **Location**: Tokyo, Japan
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+  <div>
+    <img src="./images/ruri_osada_github.png" alt="Osada Yu - GitHub Profile" width="300" />
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 8px;">
+    <div style="background-color: #f0f0f0; color: #333; padding: 4px 8px; border-left: 4px solid #333;">
+    こどもたちに「エラーはこわくないよ」と伝えるお仕事してます。<br>Teaching kids that "errors aren't scary" — one bug at a time.
+    </div>
+    <div>
+    📍 Location: Tokyo, Japan
+    </div>
+  </div>
+</div>
 
 Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and educator based in Tokyo. I specialize in **Web Development** using **PHP (Laravel)** and **Python (Django, FastAPI)** to create practical solutions spanning from AI-powered productivity tools to educational applications. As a **composer** and **programming instructor**, I bridge the gap between technology and creativity, developing tools that enhance both music production workflows and programming education for youth.
 
