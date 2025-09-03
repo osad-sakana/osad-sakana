@@ -8,8 +8,6 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 ![概要](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osad-sakana&theme=dracula)
 
----
-
 ## Skills & Tools / スキル・ツール
 
 ### Programming Languages & Frameworks / プログラミング言語 & フレームワーク
@@ -31,8 +29,6 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)![Cursor](https://img.shields.io/badge/Cursor-121212?logo=cursor&logoColor=white)
 
----
-
 ## Featured Projects / 主要プロジェクト
 
 ### 🤖 AI & Productivity Tools
@@ -50,8 +46,6 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 - **[kurari_platformer](https://github.com/osad-sakana/kurari_platformer)** - Educational platformer game co-developed with students *(Python)*
 - **[inventory_practice](https://github.com/osad-sakana/inventory_practice)** - Interactive keyboard inventory switching trainer *(TypeScript)*
 
----
-
 ## Interests & Fields of Activity / 興味・活動分野
 
 - **AI-Powered Productivity Solutions** / **AI活用による生産性向上ソリューション**
@@ -68,8 +62,6 @@ GitHubを活用して、Web開発と音楽制作支援の両面から新しい�
 ## Contact & More / 連絡先・その他
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/osad_sakana)
-
----
 
 ### 🎙️ Podcast: 活字中毒者計画
 
