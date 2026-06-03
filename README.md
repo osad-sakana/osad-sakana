@@ -10,24 +10,22 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 ## Skills & Tools / スキル・ツール
 
-### Programming Languages & Frameworks / プログラミング言語 & フレームワーク
+### Programming Languages / プログラミング言語
 
-#### Primary Stack / メインスタック
+[![Languages](https://skillicons.dev/icons?i=python,ts,rust,php,go&theme=light)](https://skillicons.dev)
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) **Web Applications & APIs**
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) **AI Integration & Backend Services**
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) **Frontend & Desktop Apps**
+### Frameworks / フレームワーク
 
-**Exploring** / **学習・実験中**
-
-- ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) **System Tools & Performance**
-- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) **Microservices & CLI Tools**
-
-![リポジトリの言語](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osad-sakana&theme=dracula)![コミットの言語](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osad-sakana&theme=dracula)
+[![Frameworks](https://skillicons.dev/icons?i=laravel,django,fastapi,react,nextjs,nodejs,astro&theme=light)](https://skillicons.dev)
 
 ### Tools / ツール
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)![Cursor](https://img.shields.io/badge/Cursor-121212?logo=cursor&logoColor=white)![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode&theme=light)](https://skillicons.dev)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+
+### Language Stats / 言語比率
+
+![リポジトリの言語](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osad-sakana&theme=dracula)![コミットの言語](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osad-sakana&theme=dracula)
 
 ## Featured Projects / 主要プロジェクト
 
@@ -35,9 +33,9 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 - **[face_classifier](https://github.com/osad-sakana/face_classifier)** - Intelligent photo sorting system using face recognition _(Python)_
 - **[voicenote](https://github.com/osad-sakana/voicenote)** - Local voice recording, transcription, and export tool _(Python)_
-- **[prompt-bell](https://github.com/osad-sakana/prompt-bell)** - Prompt creation support tool for generative AI _(TypeScript)_
+- **[sentei-pictures](https://github.com/osad-sakana/sentei-pictures)** - Photo selection support tool _(Python)_
 - **[aicloner](https://github.com/osad-sakana/aicloner)** - Directory management tool for parallel coding CLI execution _(Rust)_
-- **[contribute-alert](https://github.com/osad-sakana/contribute-alert)** - Notification tool for when you haven't contributed _(Python)_
+- **[web-image-optimizer](https://github.com/osad-sakana/web-image-optimizer)** - Batch image compression script for web publishing _(Python)_
 
 ### 🎵 Music & Creative Tools
 
@@ -51,13 +49,13 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 - **[kururi-dev-browser](https://github.com/osad-sakana/kururi-dev-browser)** - Browser for developers _(TypeScript)_
 - **[laravel-log-viewer](https://github.com/osad-sakana/laravel-log-viewer)** - VSCode extension for filtering and viewing Laravel logs _(TypeScript)_
 - **[python-indent-visualizer](https://github.com/osad-sakana/python-indent-visualizer)** - VSCode extension for visualizing Python indent structure as nested blocks _(TypeScript)_
-- **[work-dot-log](https://github.com/osad-sakana/work-dot-log)** - Work log recorder to improve estimation accuracy _(TypeScript)_
+- **[swipefeed](https://github.com/osad-sakana/swipefeed)** - Personal RSS feed app _(TypeScript)_
 - **[sshportal](https://github.com/osad-sakana/sshportal)** - SSH connection management tool for macOS _(Rust)_
+- **[kururi-compiler](https://github.com/osad-sakana/kururi-compiler)** - Custom programming language Kururi _(Rust)_
 
 ### 🎮 Educational & Game Development
 
-- **[kururin-typing-game](https://github.com/osad-sakana/kururin-typing-game)** - Kururin typing game _(TypeScript)_
-- **[pyxel-shooting-kururin](https://github.com/osad-sakana/pyxel-shooting-kururin)** - Kururin shooting game — Protect the Fudebako Star! _(Python)_
+- **[git-tutorial-site](https://github.com/osad-sakana/git-tutorial-site)** - Git tutorial website _(Astro)_
 - **[kurari_platformer](https://github.com/osad-sakana/kurari_platformer)** - Educational platformer game co-developed with students _(Python)_
 - **[inventory_practice](https://github.com/osad-sakana/inventory_practice)** - Interactive keyboard inventory switching trainer _(TypeScript)_
 
