@@ -12,53 +12,192 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 ### Programming Languages / プログラミング言語
 
-[![Languages](https://skillicons.dev/icons?i=python,ts,rust,php,go&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,ts,rust,php,go)](https://skillicons.dev)
 
 ### Frameworks / フレームワーク
 
-[![Frameworks](https://skillicons.dev/icons?i=laravel,django,fastapi,react,nextjs,nodejs,astro&theme=light)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=laravel,django,fastapi,react,nextjs,nodejs,astro)](https://skillicons.dev)
 
 ### Tools / ツール
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode)](https://skillicons.dev)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 
 ### Language Stats / 言語比率
 
 <img src="./github-metrics/languages.svg" alt="Languages" width="100%">
 
-
 ## Featured Projects / 主要プロジェクト
 
 ### 🤖 AI & Productivity Tools
 
-- **[face_classifier](https://github.com/osad-sakana/face_classifier)** - Intelligent photo sorting system using face recognition _(Python)_
-- **[voicenote](https://github.com/osad-sakana/voicenote)** - Local voice recording, transcription, and export tool _(Python)_
-- **[sentei-pictures](https://github.com/osad-sakana/sentei-pictures)** - Photo selection support tool _(Python)_
-- **[aicloner](https://github.com/osad-sakana/aicloner)** - Directory management tool for parallel coding CLI execution _(Rust)_
-- **[web-image-optimizer](https://github.com/osad-sakana/web-image-optimizer)** - Batch image compression script for web publishing _(Python)_
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/face_classifier"><b>face_classifier</b></a><br>
+<sub>顔認識による写真分類システム</sub><br>
+<sub><code>Python</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/voicenote"><b>voicenote</b></a><br>
+<sub>文字起こし対応ボイスレコーダー</sub><br>
+<sub><code>Python</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/haikei_ai"><b>haikei_ai</b></a><br>
+<sub>AI活用メール要約・文体変換アプリ</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/sentei-pictures"><b>sentei-pictures</b></a><br>
+<sub>写真選定サポートツール</sub><br>
+<sub><code>Python</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/aicloner"><b>aicloner</b></a><br>
+<sub>コーディングCLI並列実行のディレクトリ管理</sub><br>
+<sub><code>Rust</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/web-image-optimizer"><b>web-image-optimizer</b></a><br>
+<sub>Web用画像一括圧縮スクリプト</sub><br>
+<sub><code>Python</code></sub>
+</td>
+</tr>
+</table>
 
 ### 🎵 Music & Creative Tools
 
-- **[groovepush2](https://github.com/osad-sakana/groovepush2)** - High-speed backup tool for music producers _(Rust)_
-- **[groovepush](https://github.com/osad-sakana/groovepush)** - Git-style music file management tool _(Go)_
-- **[podcast-recorder](https://github.com/osad-sakana/podcast-recorder)** - Professional podcast voice recorder with full-screen highlight features _(TypeScript)_
-- Music production assistance applications (private repositories)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/groovepush2"><b>groovepush2</b></a><br>
+<sub>音楽制作者のための高速バックアップツール</sub><br>
+<sub><code>Rust</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/groovepush"><b>groovepush</b></a><br>
+<sub>音楽ファイルをGitのように管理するツール</sub><br>
+<sub><code>Go</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/pyxres-piano-roll"><b>pyxres-piano-roll</b></a><br>
+<sub>Pyxel互換音楽エディタ</sub><br>
+<sub><code>JavaScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/podcast-recorder"><b>podcast-recorder</b></a><br>
+<sub>録音状態が一目でわかるポッドキャストレコーダー</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/podcast-recorder-rust"><b>podcast-recorder-rust</b></a><br>
+<sub>ポッドキャストレコーダー (Rust版)</sub><br>
+<sub><code>Rust</code></sub>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ### 🔧 Developer Tools
 
-- **[kururi-dev-browser](https://github.com/osad-sakana/kururi-dev-browser)** - Browser for developers _(TypeScript)_
-- **[laravel-log-viewer](https://github.com/osad-sakana/laravel-log-viewer)** - VSCode extension for filtering and viewing Laravel logs _(TypeScript)_
-- **[python-indent-visualizer](https://github.com/osad-sakana/python-indent-visualizer)** - VSCode extension for visualizing Python indent structure as nested blocks _(TypeScript)_
-- **[swipefeed](https://github.com/osad-sakana/swipefeed)** - Personal RSS feed app _(TypeScript)_
-- **[sshportal](https://github.com/osad-sakana/sshportal)** - SSH connection management tool for macOS _(Rust)_
-- **[kururi-compiler](https://github.com/osad-sakana/kururi-compiler)** - Custom programming language Kururi _(Rust)_
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/kururi-dev-browser"><b>kururi-dev-browser</b></a><br>
+<sub>開発者のためのブラウザ</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/laravel-log-viewer"><b>laravel-log-viewer</b></a><br>
+<sub>Laravelログフィルタリング VSCode拡張</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/python-indent-visualizer"><b>python-indent-visualizer</b></a><br>
+<sub>Pythonインデント構造の可視化 VSCode拡張</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/swipefeed"><b>swipefeed</b></a><br>
+<sub>自分のためのRSSフィードアプリ</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/sshportal"><b>sshportal</b></a><br>
+<sub>macOS用SSH接続管理ツール</sub><br>
+<sub><code>Rust</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/kururi-compiler"><b>kururi-compiler</b></a><br>
+<sub>学習用プログラミング言語 Kururi</sub><br>
+<sub><code>Rust</code></sub>
+</td>
+</tr>
+</table>
 
 ### 🎮 Educational & Game Development
 
-- **[git-tutorial-site](https://github.com/osad-sakana/git-tutorial-site)** - Git tutorial website _(Astro)_
-- **[kurari_platformer](https://github.com/osad-sakana/kurari_platformer)** - Educational platformer game co-developed with students _(Python)_
-- **[inventory_practice](https://github.com/osad-sakana/inventory_practice)** - Interactive keyboard inventory switching trainer _(TypeScript)_
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/git-tutorial-site"><b>git-tutorial-site</b></a><br>
+<sub>Gitチュートリアルサイト</sub><br>
+<sub><code>Astro</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/emerald-box"><b>emerald-box</b></a><br>
+<sub>AIワークショップ用HTML Sandbox</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/narapy"><b>narapy</b></a><br>
+<sub>学習用Python環境</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/evaluation-tutorial"><b>evaluation-tutorial</b></a><br>
+<sub>「評価」概念を教えるスライド</sub><br>
+<sub><code>Vue</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/utility-for-programmers"><b>utility-for-programmers</b></a><br>
+<sub>プログラミング学習向けMinecraft HUD</sub><br>
+<sub><code>Java</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/kurari_platformer"><b>kurari_platformer</b></a><br>
+<sub>生徒と一緒に作るプラットフォーマーゲーム</sub><br>
+<sub><code>Python</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/osad-sakana/inventory_practice"><b>inventory_practice</b></a><br>
+<sub>インベントリ切り替えキーボード矯正ゲーム</sub><br>
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ## Interests & Fields of Activity / 興味・活動分野
 
