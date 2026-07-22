@@ -6,7 +6,7 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 こんにちは、東京を拠点とする**Web 開発**エンジニア・プログラミング講師の**小佐田雄宇**です。**PHP (Laravel)** や **Python (Django, FastAPI)** を用いて、AI を活用した生産性向上ツールから教育アプリケーションまで、実用的なソリューションを開発しています。**作曲家**・**プログラミング講師**として、テクノロジーと創造性を融合し、音楽制作ワークフローと青少年向けプログラミング教育の両方を支援するツールを開発しています。
 
-![Isocalendar](./github-metrics/isocalendar.svg)
+<img src="./github-metrics/isocalendar.svg" alt="Isocalendar" width="100%">
 
 ## Skills & Tools / スキル・ツール
 
@@ -25,15 +25,8 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 
 ### Language Stats / 言語比率
 
-![Languages](./github-metrics/languages.svg)
+<img src="./github-metrics/languages.svg" alt="Languages" width="100%">
 
-### Coding Habits / コーディング習慣
-
-![Habits](./github-metrics/habits.svg)
-
-### Achievements / 実績
-
-![Achievements](./github-metrics/achievements.svg)
 
 ## Featured Projects / 主要プロジェクト
 
