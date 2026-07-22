@@ -34,38 +34,32 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/face_classifier"><b>face_classifier</b></a><br>
-<sub>顔認識による写真分類システム</sub><br>
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"> <a href="https://github.com/osad-sakana/face_classifier"><b>face_classifier</b></a><br>
+<sub>顔認識による写真分類システム</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/voicenote"><b>voicenote</b></a><br>
-<sub>文字起こし対応ボイスレコーダー</sub><br>
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"> <a href="https://github.com/osad-sakana/voicenote"><b>voicenote</b></a><br>
+<sub>文字起こし対応ボイスレコーダー</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/haikei_ai"><b>haikei_ai</b></a><br>
-<sub>AI活用メール要約・文体変換アプリ</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/haikei_ai"><b>haikei_ai</b></a><br>
+<sub>AI活用メール要約・文体変換アプリ</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/sentei-pictures"><b>sentei-pictures</b></a><br>
-<sub>写真選定サポートツール</sub><br>
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"> <a href="https://github.com/osad-sakana/sentei-pictures"><b>sentei-pictures</b></a><br>
+<sub>写真選定サポートツール</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/aicloner"><b>aicloner</b></a><br>
-<sub>コーディングCLI並列実行のディレクトリ管理</sub><br>
-<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust">
+<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust"> <a href="https://github.com/osad-sakana/aicloner"><b>aicloner</b></a><br>
+<sub>コーディングCLI並列実行のディレクトリ管理</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/web-image-optimizer"><b>web-image-optimizer</b></a><br>
-<sub>Web用画像一括圧縮スクリプト</sub><br>
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"> <a href="https://github.com/osad-sakana/web-image-optimizer"><b>web-image-optimizer</b></a><br>
+<sub>Web用画像一括圧縮スクリプト</sub>
 </td>
 </tr>
 </table>
@@ -75,33 +69,28 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/groovepush2"><b>groovepush2</b></a><br>
-<sub>音楽制作者のための高速バックアップツール</sub><br>
-<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust">
+<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust"> <a href="https://github.com/osad-sakana/groovepush2"><b>groovepush2</b></a><br>
+<sub>音楽制作者のための高速バックアップツール</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/groovepush"><b>groovepush</b></a><br>
-<sub>音楽ファイルをGitのように管理するツール</sub><br>
-<img src="https://skillicons.dev/icons?i=go" width="20" height="20" alt="Go">
+<img src="https://skillicons.dev/icons?i=go" width="20" height="20" alt="Go"> <a href="https://github.com/osad-sakana/groovepush"><b>groovepush</b></a><br>
+<sub>音楽ファイルをGitのように管理するツール</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/pyxres-piano-roll"><b>pyxres-piano-roll</b></a><br>
-<sub>Pyxel互換音楽エディタ</sub><br>
-<img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"> <a href="https://github.com/osad-sakana/pyxres-piano-roll"><b>pyxres-piano-roll</b></a><br>
+<sub>Pyxel互換音楽エディタ</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/podcast-recorder"><b>podcast-recorder</b></a><br>
-<sub>録音状態が一目でわかるポッドキャストレコーダー</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/podcast-recorder"><b>podcast-recorder</b></a><br>
+<sub>録音状態が一目でわかるポッドキャストレコーダー</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/podcast-recorder-rust"><b>podcast-recorder-rust</b></a><br>
-<sub>ポッドキャストレコーダー (Rust版)</sub><br>
-<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust">
+<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust"> <a href="https://github.com/osad-sakana/podcast-recorder-rust"><b>podcast-recorder-rust</b></a><br>
+<sub>ポッドキャストレコーダー (Rust版)</sub>
 </td>
 <td width="50%" valign="top">
 </td>
@@ -113,38 +102,32 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/kururi-dev-browser"><b>kururi-dev-browser</b></a><br>
-<sub>開発者のためのブラウザ</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/kururi-dev-browser"><b>kururi-dev-browser</b></a><br>
+<sub>開発者のためのブラウザ</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/laravel-log-viewer"><b>laravel-log-viewer</b></a><br>
-<sub>Laravelログフィルタリング VSCode拡張</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/laravel-log-viewer"><b>laravel-log-viewer</b></a><br>
+<sub>Laravelログフィルタリング VSCode拡張</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/python-indent-visualizer"><b>python-indent-visualizer</b></a><br>
-<sub>Pythonインデント構造の可視化 VSCode拡張</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/python-indent-visualizer"><b>python-indent-visualizer</b></a><br>
+<sub>Pythonインデント構造の可視化 VSCode拡張</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/swipefeed"><b>swipefeed</b></a><br>
-<sub>自分のためのRSSフィードアプリ</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/swipefeed"><b>swipefeed</b></a><br>
+<sub>自分のためのRSSフィードアプリ</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/sshportal"><b>sshportal</b></a><br>
-<sub>macOS用SSH接続管理ツール</sub><br>
-<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust">
+<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust"> <a href="https://github.com/osad-sakana/sshportal"><b>sshportal</b></a><br>
+<sub>macOS用SSH接続管理ツール</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/kururi-compiler"><b>kururi-compiler</b></a><br>
-<sub>学習用プログラミング言語 Kururi</sub><br>
-<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust">
+<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust"> <a href="https://github.com/osad-sakana/kururi-compiler"><b>kururi-compiler</b></a><br>
+<sub>学習用プログラミング言語 Kururi</sub>
 </td>
 </tr>
 </table>
@@ -154,45 +137,38 @@ Hello, I'm **Osada Yu (小佐田雄宇)**, a multi-disciplinary developer and ed
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/git-tutorial-site"><b>git-tutorial-site</b></a><br>
-<sub>Gitチュートリアルサイト</sub><br>
-<img src="https://skillicons.dev/icons?i=astro" width="20" height="20" alt="Astro">
+<img src="https://skillicons.dev/icons?i=astro" width="20" height="20" alt="Astro"> <a href="https://github.com/osad-sakana/git-tutorial-site"><b>git-tutorial-site</b></a><br>
+<sub>Gitチュートリアルサイト</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/emerald-box"><b>emerald-box</b></a><br>
-<sub>AIワークショップ用HTML Sandbox</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/emerald-box"><b>emerald-box</b></a><br>
+<sub>AIワークショップ用HTML Sandbox</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/narapy"><b>narapy</b></a><br>
-<sub>学習用Python環境</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/narapy"><b>narapy</b></a><br>
+<sub>学習用Python環境</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/evaluation-tutorial"><b>evaluation-tutorial</b></a><br>
-<sub>「評価」概念を教えるスライド</sub><br>
-<img src="https://skillicons.dev/icons?i=vue" width="20" height="20" alt="Vue">
+<img src="https://skillicons.dev/icons?i=vue" width="20" height="20" alt="Vue"> <a href="https://github.com/osad-sakana/evaluation-tutorial"><b>evaluation-tutorial</b></a><br>
+<sub>「評価」概念を教えるスライド</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/utility-for-programmers"><b>utility-for-programmers</b></a><br>
-<sub>プログラミング学習向けMinecraft HUD</sub><br>
-<img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java">
+<img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"> <a href="https://github.com/osad-sakana/utility-for-programmers"><b>utility-for-programmers</b></a><br>
+<sub>プログラミング学習向けMinecraft HUD</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/kurari_platformer"><b>kurari_platformer</b></a><br>
-<sub>生徒と一緒に作るプラットフォーマーゲーム</sub><br>
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"> <a href="https://github.com/osad-sakana/kurari_platformer"><b>kurari_platformer</b></a><br>
+<sub>生徒と一緒に作るプラットフォーマーゲーム</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/osad-sakana/inventory_practice"><b>inventory_practice</b></a><br>
-<sub>インベントリ切り替えキーボード矯正ゲーム</sub><br>
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"> <a href="https://github.com/osad-sakana/inventory_practice"><b>inventory_practice</b></a><br>
+<sub>インベントリ切り替えキーボード矯正ゲーム</sub>
 </td>
 <td width="50%" valign="top">
 </td>
