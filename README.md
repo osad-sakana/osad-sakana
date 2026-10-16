@@ -53,6 +53,24 @@ Web developer, composer, and programming instructor based in Tokyo. I build prac
 <sub>Gitチュートリアルサイト</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=rust" width="20" height="20" align="middle" alt="Rust"> <a href="https://github.com/osad-sakana/safe-stream-browser"><b>safe-stream-browser</b></a><br>
+<sub>配信のための安全ブラウザ</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="middle" alt="JavaScript"> <a href="https://github.com/osad-sakana/site-pdf-exporter"><b>site-pdf-exporter</b></a><br>
+<sub>WebサイトのPC版・スマホ版をPDF出力するツール</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=java" width="20" height="20" align="middle" alt="Java"> <a href="https://github.com/osad-sakana/direct-connect-reset"><b>direct-connect-reset</b></a><br>
+<sub>Minecraftのダイレクト接続を改善するMOD</sub>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ## Links / リンク
