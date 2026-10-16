@@ -15,7 +15,7 @@ Web developer, composer, and programming instructor based in Tokyo. I build prac
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" align="middle" alt="TypeScript"> <a href="https://github.com/osad-sakana/narapy"><b>narapy</b></a> ⭐<br>
+<img src="https://skillicons.dev/icons?i=ts" width="20" height="20" align="middle" alt="TypeScript"> <a href="https://github.com/osad-sakana/narapy"><b>narapy</b></a><br>
 <sub>学習用Python環境</sub>
 </td>
 <td width="50%" valign="top">
