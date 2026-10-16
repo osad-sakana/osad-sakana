@@ -76,4 +76,3 @@ Web developer, composer, and programming instructor based in Tokyo. I build prac
 ## Links / リンク
 
 - 🏢 [紫水制作所](https://shisui.tokyo)
-- 🎙️ [活字中毒者計画](https://katsujikyo.net/) (Podcast)
